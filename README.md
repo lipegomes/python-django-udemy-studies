@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/lipegomes/https://githubcom/lipegomes/python-django-udemy-studies.svg)](http://hits.dwyl.com/lipegomes/https://githubcom/lipegomes/python-django-udemy-studies)
+
 # Python and Django Studies
 
 This repository is for me to date my studies on Python, Django guiding me behind the classes of instructor **Luiz Otávio Miranda** on the **Udemy** teaching platform at the link below:
